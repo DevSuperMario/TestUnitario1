@@ -1,4 +1,6 @@
-public class AppTest                               codigo do diaboooo
+Código de Teste Unitário. Configurar para usar o Junit5 (junit-jupiter-api e junit-jupiter-engine) e o JACOCO.
+
+public class AppTest
     extends TestCase
 {
     /**
